@@ -58,7 +58,3 @@ function brand(block="block"){
         })
      })
   
-       
-    
-   
- 
