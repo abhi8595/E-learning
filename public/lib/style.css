@@ -390,7 +390,7 @@ header{
  background-color:#ffc600; ;
 }
 .review-section{
-  background-image: url("/public/images/review-bg.png");
+  background-image: url("../images/review-bg.png");
   background-size: cover;
   background-position:center center;
   background-attachment: fixed;
@@ -479,7 +479,7 @@ header{
   justify-content: center;
 }
 .footer{
-  background-image: url("/public/images/footer.jpg");
+  background-image: url("../images/footer.jpg");
   background-size: cover;
   background-position:center bottom;
   background-attachment: fixed;
